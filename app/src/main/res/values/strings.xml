@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">VR_Life</string>
+    <string name="nick_name">昵称</string>
+    <string name="home_page">首页</string>
+    <string name="latest_imformation">最新资讯</string>
+    <string name="sample_house">样板间</string>
+    <string name="hostest_vr">最热VR</string>
+    <string name="personal_center">个人中心</string>
+
 </resources>

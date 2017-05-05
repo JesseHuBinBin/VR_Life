@@ -13,6 +13,6 @@ public class TitlePaperActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.title_paper_activity);
+        setContentView(R.layout.activity_title_paper);
     }
 }
