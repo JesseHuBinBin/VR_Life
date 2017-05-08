@@ -26,6 +26,7 @@
         <activity
             android:name=".activity.TitlePaperActivity"
             android:launchMode="singleTask"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.NoActionBar">
 
         </activity>

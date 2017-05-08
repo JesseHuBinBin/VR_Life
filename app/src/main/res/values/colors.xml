@@ -5,4 +5,10 @@
     <color name="colorAccent">#FF4081</color>
     <color name="baseColor">#29283A</color>
     <color name="grey">#9E9E9F</color>
+    <attr name="contentStyle" format="reference"/>
+    <attr name="titleStyle" format="reference"/>
+    <attr name="buttonBg" format="reference|color"/>
+    <attr name="buttonTextColor" format="reference|color"/>
+    <attr name="checkTextColor" format="reference|color"/>
+    <attr name="switchTextColor" format="reference|color"/>
 </resources>
